@@ -2,9 +2,9 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome plugins, themes, agents, projects, and resources for [OpenCode](https://opencode.ai/).
+> A curated list of awesome plugins, themes, agents, projects, and resources for [opencode](https://opencode.ai/).
 
-[OpenCode](https://opencode.ai/) is an AI coding agent for the terminal, built by the team at [SST](https://github.com/sst). This list is a community-driven collection of resources to make it even more powerful.
+[opencode](https://opencode.ai/) is an AI coding agent for the terminal, built by the team at [SST](https://github.com/sst). This list is a community-driven collection of resources to make it even more powerful.
 
 ## Contents
 
@@ -16,7 +16,7 @@
 
 ## Plugins
 
-*   [OpenCode Monitor](https://github.com/Shlomob/ocmonitor-share) - A CLI tool for monitoring and analysing OpenCode AI coding usage.
+*   [opencode Monitor](https://github.com/Shlomob/ocmonitor-share) - A CLI tool for monitoring and analysing opencode AI coding usage.
 
 ➡️ **[Suggest a new Plugin in our Discussions!](https://github.com/ShamanicArts/awesome-opencode/discussions/categories/plugins)**
 
@@ -34,7 +34,7 @@
 
 ## Resources
 
-*   [GoTTY](https://github.com/sorenisanerd/gotty) - A simple command-line tool that turns your CLI tools, like OpenCode, into web applications.
+*   [GoTTY](https://github.com/sorenisanerd/gotty) - A simple command-line tool that turns your CLI tools, like opencode, into web applications.
 
 ➡️ **[Suggest a new Resource in our Discussions!](https://github.com/ShamanicArts/awesome-opencode/discussions/categories/resources)**
 
