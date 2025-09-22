@@ -1,6 +1,11 @@
+<img width="289" height="100" alt="image" src="https://github.com/user-attachments/assets/aced1e8e-e6be-485a-9015-b822d01ab064" />
+
 # awesome-opencode
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+
+
 
 > A curated list of awesome plugins, themes, agents, projects, and resources for [opencode](https://opencode.ai/).
 
