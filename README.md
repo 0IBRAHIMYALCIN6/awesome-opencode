@@ -16,6 +16,8 @@
 
 ## Plugins
 
+*   [OpenCode Monitor](https://github.com/Shlomob/ocmonitor-share) - A CLI tool for monitoring and analysing OpenCode AI coding usage.
+
 ➡️ **[Suggest a new Plugin in our Discussions!](https://github.com/ShamanicArts/awesome-opencode/discussions/categories/plugins)**
 
 ## Themes
@@ -31,6 +33,8 @@
 ➡️ **[Suggest a new Project in our Discussions!](https://github.com/ShamanicArts/awesome-opencode/discussions/categories/projects)**
 
 ## Resources
+
+*   [GoTTY](https://github.com/sorenisanerd/gotty) - A simple command-line tool that turns your CLI tools, like OpenCode, into web applications.
 
 ➡️ **[Suggest a new Resource in our Discussions!](https://github.com/ShamanicArts/awesome-opencode/discussions/categories/resources)**
 
