@@ -30,7 +30,7 @@
 
 |Name|Stars|Description|
 |---|---|---|
-|[Opencode-Google-AI-Search-Plugin](https://github.com/ahosker/Opencode-Google-AI-Search-Plugin)|![GitHub Repo stars](https://badgen.net/github/stars/ahosker/Opencode-Google-AI-Search-Plugin)|An opencode plugin that exposes a native tool for querying Google AI Mode (SGE).|
+|[Opencode-Google-AI-Search-Plugin](https://github.com/IgorWarzocha/Opencode-Google-AI-Search-Plugin)|![GitHub Repo stars](https://badgen.net/github/stars/IgorWarzocha/Opencode-Google-AI-Search-Plugin)|An opencode plugin that exposes a native tool for querying Google AI Mode (SGE).|
 |[Opencode-Context-Analysis-Plugin](https://github.com/IgorWarzocha/Opencode-Context-Analysis-Plugin)|![GitHub Repo stars](https://badgen.net/github/stars/IgorWarzocha/Opencode-Context-Analysis-Plugin)|An opencode plugin that provides detailed token usage analysis for your AI sessions.|
 
 ➡️ **[Suggest a new Plugin in our Discussions!](https://github.com/awesome-opencode/awesome-opencode/discussions/categories/plugins)**
