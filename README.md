@@ -16,8 +16,6 @@
 
 ## Plugins
 
-*   [opencode Monitor](https://github.com/Shlomob/ocmonitor-share) - A CLI tool for monitoring and analysing opencode AI coding usage.
-
 ➡️ **[Suggest a new Plugin in our Discussions!](https://github.com/ShamanicArts/awesome-opencode/discussions/categories/plugins)**
 
 ## Themes
@@ -29,6 +27,8 @@
 ➡️ **[Suggest a new Agent in our Discussions!](https://github.com/ShamanicArts/awesome-opencode/discussions/categories/agents)**
 
 ## Projects
+
+*   [opencode Monitor](https://github.com/Shlomob/ocmonitor-share) - A CLI tool for monitoring and analysing opencode AI coding usage.
 
 ➡️ **[Suggest a new Project in our Discussions!](https://github.com/ShamanicArts/awesome-opencode/discussions/categories/projects)**
 
