@@ -30,6 +30,7 @@
 
 |Name|Stars|Description|
 |---|---|---|
+|[Ring a Bell Example](https://gist.github.com/ahosker/267f375a65378bcb9a867fd9a195db1e#file-opencode-terminal-bell-plugin-md)|-|A simple plugin to ring the terminal bell once a request is complete.|
 |[Opencode-Google-AI-Search-Plugin](https://github.com/IgorWarzocha/Opencode-Google-AI-Search-Plugin)|![GitHub Repo stars](https://badgen.net/github/stars/IgorWarzocha/Opencode-Google-AI-Search-Plugin)|An opencode plugin that exposes a native tool for querying Google AI Mode (SGE).|
 |[Opencode-Context-Analysis-Plugin](https://github.com/IgorWarzocha/Opencode-Context-Analysis-Plugin)|![GitHub Repo stars](https://badgen.net/github/stars/IgorWarzocha/Opencode-Context-Analysis-Plugin)|An opencode plugin that provides detailed token usage analysis for your AI sessions.|
 
