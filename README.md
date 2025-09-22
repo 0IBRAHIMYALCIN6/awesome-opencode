@@ -1,4 +1,3 @@
-
 # awesome-opencode
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -17,26 +16,26 @@
 
 ## Plugins
 
-*Your contributions are welcome!*
+➡️ **[Suggest a new Plugin in our Discussions!](https://github.com/ShamanicArts/awesome-opencode/discussions/categories/plugins)**
 
 ## Themes
 
-*Your contributions are welcome!*
+➡️ **[Suggest a new Theme in our Discussions!](https://github.com/ShamanicArts/awesome-opencode/discussions/categories/themes)**
 
 ## Agents
 
-*Your contributions are welcome!*
+➡️ **[Suggest a new Agent in our Discussions!](https://github.com/ShamanicArts/awesome-opencode/discussions/categories/agents)**
 
 ## Projects
 
-*Your contributions are welcome!*
+➡️ **[Suggest a new Project in our Discussions!](https://github.com/ShamanicArts/awesome-opencode/discussions/categories/projects)**
 
 ## Resources
 
-*Your contributions are welcome!*
+➡️ **[Suggest a new Resource in our Discussions!](https://github.com/ShamanicArts/awesome-opencode/discussions/categories/resources)**
 
 ## Contributing
 
 Your contributions are essential to keeping this list great!
 
-Please feel free to suggest new additions by **starting a new discussion** in the [Discussions tab](https://github.com/ShamanicArts/awesome-opencode/discussions) of this repository. We're looking for new projects, categories, and any other ideas to make this list better. Thank you for your help in building this community resource
+To add an item to the list, please **start a new discussion** in the appropriate category. We're looking for new projects, themes, agents, and any other ideas to make this list better. Thank you for your help in building this community resource
