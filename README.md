@@ -50,6 +50,10 @@
 ## Resources
 
 *   [GoTTY](https://github.com/sorenisanerd/gotty) - A simple command-line tool that turns your CLI tools, like OpenCode, into web applications.
+*   **Official SDKs** - Libraries for controlling the OpenCode server programmatically.
+    *   [JavaScript/TypeScript](https://github.com/sst/opencode-sdk-js) - (`npm install @opencode-ai/sdk`)
+    *   [Go](https://github.com/sst/opencode-sdk-go)
+    *   [Python](https://github.com/sst/opencode-sdk-python)
 
 
 ➡️ **[Suggest a new Resource in our Discussions!](https://github.com/awesome-opencode/awesome-opencode/discussions/categories/resources)**
