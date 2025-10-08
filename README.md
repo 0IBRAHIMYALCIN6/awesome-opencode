@@ -65,6 +65,7 @@
 |[CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)|![GitHub Repo stars](https://badgen.net/github/stars/router-for-me/CLIProxyAPI)|A proxy server providing compatible API interfaces for multiple model CLIs.|
 |[opencode.nvim](https://github.com/NickvanDyke/opencode.nvim)|![GitHub Repo stars](https://badgen.net/github/stars/NickvanDyke/opencode.nvim)|Neovim plugin for making convenient editor-aware prompts.|
 |[kimaki](https://github.com/remorses/kimaki/)|![GitHub Repo stars](https://badgen.net/github/stars/remorses/kimaki)|A Discord bot to control opencode sessions on any computer via Discord.|
+|[Vibe Kanban](https://github.com/BloopAI/vibe-kanban)|![GitHub Repo stars](https://badgen.net/github/stars/BloopAI/vibe-kanban)|A Kanban board to manage and orchestrate AI coding agents in parallel.[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQHIHL7uayaJJgxDiGXeuGn5lO7Mu37isBe1A6HfFTG9RSQU7M4TCSC2uasqpncR57EkYh4E6Nwch-BbwcvOa1mv4cBwdzCvBqb3C4e4QWjTFaDm5680PwqIeOX4JOHllfU%3D)]|
 
 ➡️ **[Suggest a new Project in our Discussions!](https://github.com/awesome-opencode/awesome-opencode/discussions/categories/projects)**
 
