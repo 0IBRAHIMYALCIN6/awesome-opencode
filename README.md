@@ -64,6 +64,7 @@
 |[geminicli2api](https://github.com/gzzhongqi/geminicli2api)|![GitHub Repo stars](https://badgen.net/github/stars/gzzhongqi/geminicli2api)|A proxy that converts the Gemini CLI tool into OpenAI-compatible endpoints.|
 |[CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)|![GitHub Repo stars](https://badgen.net/github/stars/router-for-me/CLIProxyAPI)|A proxy server providing compatible API interfaces for multiple model CLIs.|
 |[opencode.nvim](https://github.com/NickvanDyke/opencode.nvim)|![GitHub Repo stars](https://badgen.net/github/stars/NickvanDyke/opencode.nvim)|Neovim plugin for making convenient editor-aware prompts.|
+|[kimaki](https://github.com/remorses/kimaki/)|![GitHub Repo stars](https://badgen.net/github/stars/remorses/kimaki)|A Discord bot to control opencode sessions on any computer via Discord.|
 
 ➡️ **[Suggest a new Project in our Discussions!](https://github.com/awesome-opencode/awesome-opencode/discussions/categories/projects)**
 
@@ -72,6 +73,7 @@
 |Name|Stars|Description|
 |---|---|---|
 |[GoTTY](https://github.com/sorenisanerd/gotty)|![GitHub Repo stars](https://badgen.net/github/stars/sorenisanerd/gotty)|A simple command-line tool that turns your CLI tools, like opencode, into web applications.|
+|[OpenCode Debug Log to Text File](https://github.com/awesome-opencode/awesome-opencode/discussions/19)|-|How to output a debug log from opencode to a text file for troubleshooting.|
 
 ➡️ **[Suggest a new Resource in our Discussions!](https://github.com/awesome-opencode/awesome-opencode/discussions/categories/resources)**
 
